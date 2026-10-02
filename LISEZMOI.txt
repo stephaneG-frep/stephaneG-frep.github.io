@@ -1,0 +1,16 @@
+Portfolio Web généré par NabuPortfolio AI
+=========================================
+
+Contenu :
+- index.html   : la page du portfolio
+- style.css    : le design (couleurs, typographie, mise en page)
+- script.js    : menu mobile et animations d'apparition
+- images/      : les images utilisées
+
+Utilisation :
+1. Ouvrez index.html dans un navigateur pour le consulter hors ligne.
+2. Pour le publier, déposez le contenu de ce dossier sur un hébergeur de
+   sites statiques (GitHub Pages, Netlify, Vercel, OVH, o2switch...).
+
+Ce site n'a pas été publié sur Internet par l'application : c'est à vous
+de choisir où l'héberger.
