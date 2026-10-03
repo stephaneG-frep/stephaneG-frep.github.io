@@ -1,15 +1,15 @@
 :root{
-  --primary:#39FF14;--secondary:#FF2E97;--accent:#00E5FF;
+  --primary:#27AD0E;--secondary:#FF2E2E;--accent:#00E5FF;
   --bg:#050607;--surface:#0F1412;--text:#D9FFD2;--muted:#6F8F74;
-  --on-primary:#111322;
-  --card-bg:rgba(15, 20, 18, 0.70);--card-border:1px solid rgba(217, 255, 210, 0.06);--card-shadow:0 9px 30px rgba(0, 0, 0, 0.32);
+  --on-primary:#FFFFFF;
+  --card-bg:rgba(15, 20, 18, 0.85);--card-border:1.5px solid rgba(39, 173, 14, 0.55);--card-shadow:0 0 11px rgba(39, 173, 14, 0.21);
   --radius:2px;--gap:20px;--section:88px;
   --maxw:1040px;--fs:15.2px;
   --font-body:'Roboto Condensed', 'Arial Narrow', sans-serif-condensed, sans-serif;--font-head:'Roboto Condensed', 'Arial Narrow', sans-serif-condensed, sans-serif;--head-weight:800;
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{margin:0;font-family:var(--font-body);font-size:var(--fs);line-height:1.65;color:var(--text);background:radial-gradient(40rem 30rem at 0% 0%, rgba(57, 255, 20, 0.32), transparent 70%), radial-gradient(36rem 28rem at 100% 20%, rgba(255, 46, 151, 0.26), transparent 70%), radial-gradient(40rem 30rem at 50% 100%, rgba(0, 229, 255, 0.20), transparent 70%), #050607;background-attachment:fixed;min-height:100vh;-webkit-font-smoothing:antialiased}
+body{margin:0;font-family:var(--font-body);font-size:var(--fs);line-height:1.65;color:var(--text);background:radial-gradient(40rem 30rem at 0% 0%, rgba(39, 173, 14, 0.32), transparent 70%), radial-gradient(36rem 28rem at 100% 20%, rgba(255, 46, 46, 0.26), transparent 70%), radial-gradient(40rem 30rem at 50% 100%, rgba(0, 229, 255, 0.20), transparent 70%), #050607;background-attachment:fixed;min-height:100vh;-webkit-font-smoothing:antialiased}
 img{max-width:100%;display:block}
 a{color:var(--primary);text-decoration:none}
 a:hover{text-decoration:underline}
